@@ -63,7 +63,6 @@ brew "tfenv", link: false
 brew "timg"
 brew "tmux"
 brew "trash"
-brew "vim"
 brew "vmware-tanzu/carvel/ytt"
 brew "watch"
 brew "wget"
